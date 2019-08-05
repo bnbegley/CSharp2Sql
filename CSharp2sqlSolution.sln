@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp2sqlProject", "CSharp2sqlProject\CSharp2sqlProject.csproj", "{60C99EB6-889C-4D8F-BD26-C57392AE026B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C99EB6-889C-4D8F-BD26-C57392AE026B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C99EB6-889C-4D8F-BD26-C57392AE026B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C99EB6-889C-4D8F-BD26-C57392AE026B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C99EB6-889C-4D8F-BD26-C57392AE026B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB97B148-0BE7-4348-9D54-C0CECB686283}
+	EndGlobalSection
+EndGlobal
